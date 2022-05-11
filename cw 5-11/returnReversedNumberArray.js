@@ -8,3 +8,5 @@ const digitize = n => {
   let nArray = Array.from(String(n), Number);
   return nArray.reverse();
 }
+
+// test
