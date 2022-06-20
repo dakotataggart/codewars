@@ -7,4 +7,4 @@ const swapValues = array => array.reverse()
 let test = [1,2]
 console.log(swapValues(test));
 
-// Since we are only ever dealing with two values, it seems prudent to just use the reverse method in place
+// Since we are only ever dealing with two values, it seems prudent to just reverse the array in place
