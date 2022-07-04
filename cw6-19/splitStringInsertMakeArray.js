@@ -22,4 +22,4 @@ let test = "apple ban"
 // addLength(test)
 console.log(addLength(test))
 
-// MEGA yikes. Okay. Remember, when you want to obtain a modified form of the previous array, you use Array.prototype.map(). Otherwise, you would use the forEach() method, which does not technically return anything.
+// MEGA yikes. Okay. Remember, when you want to obtain a modified form of the previous array, you use Array.prototype.map(). Otherwise, you would use the forEach() method, which does not technically return anything. 
